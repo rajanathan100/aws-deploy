@@ -1,2 +1,0 @@
-# aws-deploy
-test
